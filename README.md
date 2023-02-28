@@ -53,23 +53,6 @@
     <th>Rp.5.000,00</th>
 </tr>
 <tr>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-</tr>
-<tr>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-    <th>Rp.</th>
-</tr>
 
 </table>
 </body>
