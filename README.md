@@ -52,7 +52,7 @@
     <th>Rp.25.000,00</th>
     <th>Rp.5.000,00</th>
 </tr>
-<tr>
+    <p>Total Tabungan Bulan Februari = Rp.359.000,00</p>
 
 </table>
 </body>
